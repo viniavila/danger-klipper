@@ -294,7 +294,7 @@ class MCU_trsync:
         return params["trigger_reason"]
 
 
-TRSYNC_SINGLE_MCU_TIMEOUT = 0.250
+TRSYNC_SINGLE_MCU_TIMEOUT = 0.750
 
 
 class TriggerDispatch:
